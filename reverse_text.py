@@ -1,2 +1,2 @@
-def reverse(a):
-    return a[: :-1]
+def reverse(b):
+    return b[: :-1]
